@@ -3,6 +3,9 @@ Latihan Praktikum DPBO ke-5
 
 Hasil program terdapat pada DaftarMahasiswa.jar dan source codenya berada di DaftarMahasiswa.rar
 
+- Jika tombol add, update, cancel, dan delete dipencat text input akan di clear.
+- jika salah satu imput tidak diisi akan muncul popup yang menyatakan data tidak lengkap.
+
 ### Hasil Screenshoot Program
 #### Add
 
